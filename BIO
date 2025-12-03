@@ -1,0 +1,121 @@
+ÜNAL TÜZÜN
+
+C++ & Python Developer | AI Architect | Algorithmic Trading & Simulation
+
+Email: [unaltuzun50@gmail.com]
+Phone: ‪[+905323598494‬]
+Location: Istanbul, Türkiye
+GitHub: https://github.com/unaltuzun/godbrainacademics
+LinkedIn: https://www.linkedin.com/in/%C3%BCnal-t%C3%BCz%C3%BCn-022881206/
+ 
+PROFILE
+
+C++ and Python developer with a BSc in Civil Aviation Management and a strong focus on AI architectures, algorithmic trading systems, complex systems simulation and signal processing.
+
+Since 2019 I have been designing and implementing the CODE-21 / GODBRAIN ecosystem: a multi-agent, doctrine-driven architecture that combines evolutionary computation, behaviour-aware trading engines, parameterised universe simulations and frequency-based communication experiments.
+
+I am now looking to formalise this work within the MSc Data Science and Computational Intelligence at Coventry University, and to develop it into rigorous, publishable research.
+ 
+EDUCATION
+
+Istanbul Bilgi University – Istanbul, Türkiye
+BSc, Civil Aviation Management – 2016–2020
+•	Graduated [GPA: X.XX / 4.00 – if iyi ise yaz, yoksa boş bırak]
+•	Core modules included: [Statistics for Aviation, Operations Research, Economics, etc. – uygun olanları yazabilirsin]
+•	Final year projects involved data-driven analysis of operational risk and performance in aviation contexts.
+ 
+CERTIFICATIONS
+
+TQUK Level 3 Certificate in AI Programming with Python (RQF) – 2019
+•	Foundations of Python programming, algorithms, data structures and basic AI concepts.
+ 
+TECHNICAL SKILLS
+
+Programming & Scripting
+•	Python, C++, TypeScript/Node.js, SQL
+
+Data & AI
+•	Data pipelines, backtesting frameworks, basic ML workflows, evolutionary algorithms, time-series handling
+
+Systems & Tools
+•	Linux environments, Git, REST APIs, WebSockets, relational databases
+•	Deployment on VPS / cloud servers, multi-process architectures, logging and monitoring
+
+Signal & Audio
+•	Digital audio workstations, spectral analysis, measurement of SNR / dynamic range
+•	Design and analysis of frequency patterns as data channels
+
+Languages
+•	Turkish (native), English (fluent)
+ 
+PROFESSIONAL & PROJECT EXPERIENCE
+
+Founder & Lead Developer – GODBRAIN / CODE-21
+Istanbul, Türkiye – 2024–Present
+
+Independent technology venture registered in Türkiye, focused on AI architectures, algorithmic trading research, simulation and signal-processing experiments.
+•	Designed the GODBRAIN (CODE-21) meta-architecture: a multi-agent, doctrine-driven system with:
+o	SERAPH orchestration and governance layer
+o	COUNCIL ensemble decision engine
+o	BUGKEEPER self-healing and rollback agent
+o	DNA Registry for evolving strategy and policy genomes
+•	Implemented services in Python, C++ and Node.js, with PostgreSQL-style relational storage and structured logging for replay and analysis.
+•	Developed formal doctrine documents (risk limits, behavioural constraints, shutdown rules) and translated them into machine-enforced configurations.
+
+Architect & Developer – GODMONEY Tetra Core Engine
+2025–Present
+
+Research platform for algorithmic trading in crypto derivatives, built on top of GODBRAIN.
+•	Implemented a Tetra Core architecture:
+o	NEXUS (orchestrator), CORTEX (strategy logic),
+o	VANGUARD (execution & exchange APIs),
+o	SENTINEL (real-time risk monitor),
+o	supervised by APEX controller.
+•	Built multi-process Python services to achieve true parallelism and strict separation between decision, execution and risk layers.
+•	Integrated exchange APIs in demo/sandbox environments with controlled risk exposure; implemented persistent logging of all states, decisions and trades.
+•	Connected the engine to the DNA Registry, allowing strategy genomes to be backtested, scored and promoted/retired under doctrine constraints.
+
+Designer – Human-Mind Atlas (Behavioural Trading Dataset)
+2022–Present
+•	Collected and anonymised historical trading data from hundreds of real accounts (e.g. BTCUSD derivatives).
+•	Engineered features capturing:
+o	entry/exit behaviour, leverage, drawdowns and recoveries,
+o	behavioural motifs such as “holding through large losses” and over-leveraging.
+•	Used this dataset as a behavioural baseline for AI strategies: genomes are evaluated not only for performance but also for similarity to or divergence from known human failure modes.
+
+Designer & Developer – GODCOSMIC_CORE (C++ Universe Simulation – in development)
+2023–Present
+•	Designed a C++ simulation engine where each Φ-Genome defines a parameterised “universe” (dimensions, entropy rules, determinism, interaction complexity).
+•	Specified UniverseMetrics to quantify structural complexity, stability, emergence of self-replication patterns and agent-like behaviours.
+•	Planned an evolutionary loop to search over Φ-Genomes, favouring universes that support complex, long-lived structures; intended as a research sandbox for complex systems and artificial life, and as a generator of synthetic environments for testing AI strategies.
+
+Lead Researcher – FREQUENCY_LAB (Signal & Frequency Experiments)
+2023–Present
+•	Converted a professional audio studio into a signal-processing lab for frequency-based communication experiments.
+•	Generated and recorded controlled audio patterns (tones, sweeps, modulated signals, structured noise) under varying acoustic conditions.
+•	Analysed recordings as numerical data, measuring spectral content, SNR, dynamic range and interference.
+•	Defined Ψ-Genomes encoding candidate frequency protocols (channel parameters, modulation schemes, symbol mappings, semantics).
+•	Developed fitness functions combining information capacity, robustness, energy efficiency and symbol separation, with the goal of evolving a robust frequency “language”.
+
+Designer – GODLANG & LOGOS_CORE (DSLs and Thought-Graph)
+2024–Present
+•	Designed LOGOS_CORE, a persistent “thought graph” that stores ideas and hypotheses as structured nodes and clusters.
+•	Began developing GODLANG, a family of domain-specific languages:
+o	GODLANG.COSMIC for universe definitions and experiments,
+o	GODLANG.FREQ for frequency protocols,
+o	GODLANG.FIN for financial regimes and risk doctrines.
+•	Built a pipeline from idea → GODLANG specification → experiment (GODMONEY / GODCOSMIC_CORE / FREQUENCY_LAB) → data → updated doctrines, creating a closed loop suitable for academic research in knowledge representation and program synthesis.
+ 
+OTHER EXPERIENCE (BRIEF)
+
+Music Producer & Sound Engineer – Freelance
+Istanbul, Türkiye – 2014–Present (part-time alongside technical work)
+•	Produced, wrote and arranged songs for several well-known Turkish recording artists, achieving 100M+ cumulative streams on digital platforms.
+•	Managed full audio production chain: recording, editing, mixing, mastering and delivery to labels.
+•	This experience now serves as a practical foundation for my work in signal processing, psychoacoustics and frequency-based communication in the FREQUENCY_LAB project.
+ 
+SELECTED LINKS
+•	GitHub – GODBRAIN Academics Portfolio:
+https://github.com/unaltuzun/godbrainacademics
+•	Technical Portfolio PDF (on request):
+“CODE-21 / GODBRAIN Technical Portfolio” – detailed overview of architectures, engines and research direction.
